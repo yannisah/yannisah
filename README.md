@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @yannisah
-- 👀 I’m interested in coding
-- 🌱 I’m currently studying computer science (B. Sc.)
+Hi, I’m Yannis. Im currently studying computer science (B.Sc.) in Cooperation with the German Air Navigation Services.
+Im especially interested in frontend-dev and software-testing.
+
+I‘m an apple-fanboy with a passion for aviation.
